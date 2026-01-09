@@ -2,6 +2,8 @@ package Pe;
 import java.nio.file.spi.FileSystemProvider;
 import java.util.Scanner;
 public class CLASE {
+	
+	EDITANDO LA CLASE PARA VER COMO QUEDA
 
 	
 	public static boolean esPar (int numero) {
